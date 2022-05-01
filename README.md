@@ -20,7 +20,7 @@
 
  - There are 4 screws that hold the top cover in place:
    - 2 in the back near the top of the case.
-    ![Alt text](dimmer/Screenshot 2022-05-01 154627.png "")
+    ![Alt text](https://github.com/jakeatmsft/tempIQ_mods/blob/e3a5487f9d9e0faff5d89cb27b8eddaa8e236865/dimmer/Screenshot%202022-05-01%20154627.png "")
     
 
    - 2 are located in the front in long recessed holes.  The ones in front are tri-wing screws that require a long 6mm tri-wing screwdriver.  This was the hardest part of the process
