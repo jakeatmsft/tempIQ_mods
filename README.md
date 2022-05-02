@@ -54,5 +54,8 @@
 ## (Optional) Mount Dimmer
  - You can mount the dimmer, by drilling a hole into the side of the machine and cutting out enough of the side wall to accommodate the dimmer board.   Best tools for this are a dremel and maybe a soldering iron to melt plastic.  I also used tin snips to cut away and loose plastic.
 
+Inside:
+![alt](https://github.com/jakeatmsft/tempIQ_mods/blob/d4c451755a440413ef13aad4a1d60d1c9742c79a/dimmer/imgs/PXL_20220430_025959070.jpg)
+
 Final Install:
 ![alt](https://github.com/jakeatmsft/tempIQ_mods/blob/e03e6f340afcda1ce1c8d5dd9a728dffcd8a0725/dimmer/imgs/PXL_20220430_033440236.jpg)
