@@ -2,7 +2,7 @@
 
 ## Requirements:
 
-- Calphalon TempIQ
+- Calphalon TempIQ (instructions for version without grinder)
 - Dimmer : https://www.amazon.com/dp/B000FPCEH2?psc=1&ref=ppx_yo2ov_dt_b_product_details
 - 16-14 AWG Spade Connectors: https://www.amazon.com/dp/B08BZ8FQ6G/
 - 6mm Tri-wing Screwdriver (minimum of 3.5" shaft): https://www.amazon.com/dp/B07V6WNRMT?psc=1&ref=ppx_yo2ov_dt_b_product_details
@@ -23,7 +23,7 @@
     ![Alt text](https://github.com/jakeatmsft/tempIQ_mods/blob/e3a5487f9d9e0faff5d89cb27b8eddaa8e236865/dimmer/Screenshot%202022-05-01%20154627.png "")
     
 
-   - 2 are located in the front in long recessed holes.  The ones in front are tri-wing screws that require a long 6mm tri-wing screwdriver.  This was the hardest part of the process
+   - 2 are located in the front in long recessed holes.  The ones in front are tri-wing screws that require a long (3.5"+) 6mm tri-wing screwdriver.  This was the hardest part of the process
     ![Alt text](https://github.com/jakeatmsft/tempIQ_mods/blob/e03e6f340afcda1ce1c8d5dd9a728dffcd8a0725/dimmer/Screenshot%202022-05-01%20154557.png)
 
 ## Remove Bottom Cover
